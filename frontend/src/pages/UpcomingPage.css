@@ -1,0 +1,20 @@
+.upcoming-page {
+    padding: 2rem 0;
+  }
+  
+  .upcoming-page h2 {
+    color: var(--text-dark);
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+  }
+  
+  /* Date styling in company cards */
+  .company-item p {
+    color: var(--text-light);
+    margin: 0.5rem 0;
+  }
+  
+  .company-item p:first-of-type {
+    font-weight: 500;
+    color: var(--secondary-color);
+  }
