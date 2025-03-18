@@ -30,7 +30,13 @@ A comprehensive platform for students to access placement resources, company inf
   - Peer comparison system
   - Detailed solution explanations
   - Weekly challenge leaderboards
-
+![Screenshot 2025-03-18 093534](images/Screenshot%202025-03-18%20093534.png)
+![Screenshot 2025-03-18 093548](images/Screenshot%202025-03-18%20093548.png)
+![Screenshot 2025-03-18 093603](images/Screenshot%202025-03-18%20093603.png)
+![Screenshot 2025-03-18 093715](images/Screenshot%202025-03-18%20093715.png)
+![Screenshot 2025-03-18 093759](images/Screenshot%202025-03-18%20093759.png)
+![Screenshot 2025-03-18 093759](images/Screenshot%202025-03-18%20093759.png)
+![Screenshot 2025-03-18 093815](images/Screenshot%202025-03-18%20093815.png)
 ## Technology Stack
 
 ### Frontend
