@@ -1,7 +1,6 @@
 # Placement-Hub
 
-A comprehensive platform for students to access placement resources, company information, practice quizzes, and upcoming recruitment details.
-
+The Placement-Hub  Portal is a comprehensive platform designed to streamline campus placement preparation by providing centralized access to essential resources, company information, and skill development tools. This full-stack web application bridges the gap between academic learning and industry requirements through its curated collection of placement-related content and interactive features.
 ## Features
 
 ### Current Implementation
