@@ -30,18 +30,18 @@ A comprehensive platform for students to access placement resources, company inf
   - Peer comparison system
   - Detailed solution explanations
   - Weekly challenge leaderboards
-###Register
+### Register
 ![Screenshot 2025-03-18 093534](images/Screenshot%202025-03-18%20093534.png)
-###Login
+### Login
 ![Screenshot 2025-03-18 093548](images/Screenshot%202025-03-18%20093548.png)
-###Homepage
+### Homepage
 ![Screenshot 2025-03-18 093603](images/Screenshot%202025-03-18%20093603.png)
-###view companies
+### view companies
 ![Screenshot 2025-03-18 093715](images/Screenshot%202025-03-18%20093715.png)
+![Screenshot 2025-03-18 093731](images/Screenshot%202025-03-18%20093731.png)
+### Resources
 ![Screenshot 2025-03-18 093759](images/Screenshot%202025-03-18%20093759.png)
-###Resources
-![Screenshot 2025-03-18 093759](images/Screenshot%202025-03-18%20093759.png)
-###quiz
+### quiz
 ![Screenshot 2025-03-18 093815](images/Screenshot%202025-03-18%20093815.png)
 ## Technology Stack
 
