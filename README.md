@@ -75,13 +75,21 @@ A comprehensive platform for students to access placement resources, company inf
    git clone https://github.com/your-username/placement-portal.git
    cd placement-portal
 # Install dependencies
+```bash
 npm install
+```
 
 # Create environment file
+```bash
 cp .env.example .env
+```
 
 # Configure environment variables (edit .env file)
+```bash
 nano .env
+```
 
 # Start development server
+```bash
 npm run dev
+```
